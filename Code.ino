@@ -17,7 +17,7 @@ void setup() {
 
 }
 //-----------------------------------------------------------------------// 
-//---------------------by Vadivelan tenth in the model school------------------------------//
+//---------------------by Vadivelan eleventh in the model school------------------------------//
 void loop() {
   while (BT.available()){  //Check if there is an available byte to read
   delay(4); //Delay added to make thing stable
